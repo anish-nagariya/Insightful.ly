@@ -1,0 +1,1 @@
+This paper outlines a peer-to-peer distributed timestamp server to generate computational proof of the chronological order of transactions, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power.
