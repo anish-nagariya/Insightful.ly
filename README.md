@@ -14,3 +14,5 @@ $ streamlit run streamlit.py
 
 ## Our Story
 ---
+Project built for Hack The North 2024.
+---
